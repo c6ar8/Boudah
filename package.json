@@ -1,0 +1,19 @@
+{
+  "name": "boudahbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c6ar8",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "yt-search": "^2.5.1",
+    "ytdl-core": "^4.4.3",
+    "ytsearcher": "^1.2.3"
+  }
+}
